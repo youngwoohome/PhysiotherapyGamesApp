@@ -1,0 +1,12 @@
+{
+    "solution": {},
+    "fx-resource-frontend-hosting": {
+        "endpoint": "https://localhost:3000",
+        "domain": "localhost",
+        "indexPath": "/index.html#"
+    },
+    "fx-resource-appstudio": {
+        "teamsAppId": "e9235d80-9608-4841-aab9-4fdb6fc5bd4d",
+        "tenantId": "48be3cd6-b003-4252-873a-49e6de319f91"
+    }
+}

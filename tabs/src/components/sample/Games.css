@@ -1,0 +1,72 @@
+* {
+    place-content: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+/* .gameselection {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 100px;
+}  
+*/
+.gameselection > div {
+  padding-bottom: 80px;
+} 
+
+.gameselection .icon{
+    width: 200px;
+    height: 200px;
+}
+
+.gameselection .link.btn {
+    font-weight: bold;
+    cursor: pointer;
+    border: transparent;
+    /* width: 50%; */
+    width: 120px;
+    height: 30px;
+    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+    padding: 0.375rem 0.75rem;
+    transition: all 0.5s ease-out;
+    background: #BEE3EE;
+    color: black;
+    border-radius: 0.75rem;
+    border: 2px solid black;
+  
+  }
+  
+.gameselection .link.btn:hover {
+    transition: all 0.3s ease-in-out;
+    background: #16ac16;
+  }
+
+.back.btn {
+  width: 135px;
+}
+
+.openmodalbutton {
+    font-weight: bold;
+    cursor: pointer;
+    border: transparent;
+    /* width: 50%; */
+    width: 120px;
+    height: 30px;
+    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+    padding: 0.375rem 0.75rem;
+    transition: all 0.5s ease-out;
+    background: #E6E6FA;
+    color: black;
+    border-radius: 0.75rem;
+    border: 2px solid black;
+}
+.openmodalbutton:hover {
+  transition: all 0.3s ease-in-out;
+  background: #967bb6;
+}
+
+.back-to-start.btn {
+  width: 150px;
+}

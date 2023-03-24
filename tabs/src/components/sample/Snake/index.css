@@ -1,0 +1,50 @@
+body {
+    background-color: #1e1e1e;
+}
+
+.snakepage {
+    height: 100%;
+}
+
+.snake-game-area {
+    position: relative;
+    width: 400px;
+    height: 300px;
+    border: 2px solid #dc042c;
+    border-radius: 10px;
+    margin: auto auto;
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 0 0 10px #abbfc0;
+}
+
+@media only screen and (max-width: 800px) {
+    .snake-game-area {
+        position: relative;
+        width: 350px;
+        height: 250px;
+    }
+
+    .snake-snake {
+        width: 14px;
+        height: 14px;
+    }
+}
+
+.snake-snake {
+    position: absolute;
+    width: 3%;
+    height: 3%;
+    background-color: #dc042c;
+    border: 1px solid white;
+    z-index: 2;
+}
+
+.snake-food {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    /* border-radius: 20px; */
+    z-index: 0;
+}

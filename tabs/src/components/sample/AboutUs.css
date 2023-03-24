@@ -1,0 +1,27 @@
+* {
+    text-align: center;
+}
+
+.img {
+    margin: 0 auto;
+    display: block;
+    width: 200px;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+h4 {
+    text-align: left;
+}
+
+ul {
+    display: inline-block;
+}
+
+.gif.img {
+    width: 200px;
+    height: 200px;
+    padding-bottom: 50px;
+}

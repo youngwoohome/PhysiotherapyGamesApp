@@ -1,0 +1,34 @@
+.snake-control-upwards,
+.snake-control-downwards {
+    display: flex;
+    justify-content: center;
+}
+
+.snake-control-sideways {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.snake-control-left,
+.snake-control-right {
+    margin: 10px;
+    padding: 15px;
+    border: 0px solid;
+    border-radius: 20px;
+    border: 1px solid white;
+    color: #dc042c;
+    background: #1e1e1e;
+    /* box-shadow: 5px -5px 10px rgba(0, 0, 0, 0.6); */
+}
+
+.snake-control-up,
+.snake-control-down {
+    padding: 15px;
+    border: 0px solid;
+    border-radius: 20px;
+    border: 1px solid white;
+    color: #dc042c;
+    background: #1e1e1e;
+    /* box-shadow: 5px -5px 10px rgba(0, 0, 0, 0.6); */
+}
