@@ -36,28 +36,41 @@ Access our full user manual [[here](https://students.cs.ucl.ac.uk/2022/group31/a
 ## Deployment Manual
 Access our full deployment manual [[here](https://students.cs.ucl.ac.uk/2022/group31/appendix.html#deployment)]
 
+
 ## Credits
 ### Developers
-**Adil Omar-Mufti** --> adilmufti
+**Adil Omar-Mufti** --> [[adilmufti](https://github.com/adilmufti)]
 
-**Youngwoo Jung** --> youngwoohome
+**Youngwoo Jung** --> [[youngwoohome](https://github.com/youngwoohome)]
 
-**Arvind Sethu** --> arvindsethu
+**Arvind Sethu** --> [[arvindsethu](https://github.com/arvindsethu)]
 
 ## Libraries and Assets
 The Following Are NPM Packages:
 >@microsoft/liveshare
+
 >@microsoft/teams-js
+
 >@microsoft/teamsfx
+
 >@microsoft/teamsfx-react
+
 >axios
+
 >fluid-framework
+
 >gsap
+
 >ramda
+
 >react-dice-complete
+
 >react-dom
+
 >react-router-dom
+
 >react-scripts
+
 >styled-components
 
 ## Known Bugs
