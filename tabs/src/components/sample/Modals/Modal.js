@@ -15,6 +15,8 @@ const MODAL_STYLES = {
     borderRadius : '30px',
     backgroundColor: '#BEE3EE',
     color: 'black',
+    overflowY: 'auto',
+    maxHeight: '100vh',
     zIndex: 1000
 }
 
