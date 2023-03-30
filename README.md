@@ -23,6 +23,7 @@ This project was developed using the Teams Toolkit.
 
 ## TEAMS APP DOWNLOAD FOR DEPLOYMENT
 [Download Here](appPackage.dev.zip)
+
 Press the 'Download' button, and then follow the Deployment manual.
 
 If you wish to open the application is VScode to make changes or manually deploy to Azure. Then after cloning the repository, remove the apppackage.dev.zip file from your directory.
