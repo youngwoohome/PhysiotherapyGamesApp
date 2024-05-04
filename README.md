@@ -5,6 +5,10 @@ A platform that is accessible for all; carving a new path for remote physiothera
 We hope this application will be used in unison with both MotionInput and our MotionInput NDI solution. 
 This project was developed using the Teams Toolkit.
 
+### System Design and demo video
+[Link](https://techcommunity.microsoft.com/t5/educator-developer-blog/remote-physiotherapy-in-microsoft-teams-with-ucl-motioninput-and/ba-p/3804734)
+
+
 ## Contents
 **TEAMS APP DOWNLOAD FOR DEPLOYMENT**
 
